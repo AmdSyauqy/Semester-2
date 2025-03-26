@@ -111,13 +111,13 @@ CREATE TABLE `mahasiswa` (
 --
 
 INSERT INTO `mahasiswa` (`nim`, `nama`, `jk`, `alamat`) VALUES
-('101', 'Arif', 'L', 'Jl.Kenangan'),
-('102', 'Budi', 'L', 'Jl.Jombang'),
-('103', 'Wati', 'P', 'Jl.Surabaya'),
-('104', 'Ika', 'P', 'Jl.Jombang'),
-('105', 'tono', 'L', 'Jl.Jakarta'),
-('106', 'Iwan', 'L', 'Jl.Bandung'),
-('107', 'Sari', 'P', 'Jl.Malang');
+('101', 'Arif', 'L', 'Jl. Kenangan'),
+('102', 'Budi', 'L', 'Jl. Jombang'),
+('103', 'Wati', 'P', 'Jl. Surabaya'),
+('104', 'Ika', 'P', 'Jl. Jombang'),
+('105', 'tono', 'L', 'Jl. Jakarta'),
+('106', 'Iwan', 'L', 'Jl. Bandung'),
+('107', 'Sari', 'P', 'Jl. Malang');
 
 -- --------------------------------------------------------
 
